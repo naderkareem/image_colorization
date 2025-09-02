@@ -1,0 +1,16 @@
+Here’s the cleaned and organized list without duplicates:
+
+```
+torch
+torchvision
+torchaudio
+numpy
+scikit-learn
+matplotlib
+tqdm
+lpips
+scikit-image
+Pillow
+opencv-python
+deoldify
+```
